@@ -1,0 +1,109 @@
+body {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 700;
+}
+
+.titulo{
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 900;
+    font-size: 65px;
+}
+
+.nav-link {
+    display: block;
+    padding: 0.5rem 1rem;
+    color: #6c757d;
+    text-decoration: none;
+    
+}
+
+.primeraPantalla{
+    color: #1f3e72;
+}
+
+.img {
+    width: 100%;
+    display: block;
+    }
+
+.floatBar{
+    margin-top: -200px; 
+    margin-left: 50px;
+    padding: 40px;
+    color: #1f3e72;
+}
+.h1why{
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 900;
+    font-size: 45px;
+    color: #6c757d;
+}
+
+.pwhy{
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 400;
+    font-size: 22px;
+    color: #6c757d;
+}
+
+.listP{
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    color: #6c757d;
+}
+
+.h1Prepa{
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 900;
+    font-size: 35px;
+    color: #6c757d;
+}
+
+.pPrepa{
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    color: #6c757d;
+}
+
+.tituloBold{
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+    color: #6c757d;
+}
+
+.calls{
+    margin-top: 70px;
+}
+
+.fot{
+    padding: 50px;
+}
+
+.h2foot{
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+    color: #1f3e72;
+}
+
+.pfoot{
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    color: #1f3e72;
+}
+
+.h5foot{
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    color: #0e1a30;
+}
+
+.botonBold{
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 700;
+}
